@@ -14,6 +14,7 @@ In this competition, you’ll apply your machine learning skills to predict cred
 - Discretization
 - Variable Transformations
 - Normalization Techniques
+- Remove highly correlated features
 
 ### feature engineering techniques
 
@@ -26,8 +27,8 @@ In this competition, you’ll apply your machine learning skills to predict cred
 
 ## Algorithum
 
-- SVM
-- KNN
-- XGBoost
-- LGBM
+- SVM (Support Vector Machine)
+- KNN (k-nearest neighbors)
+- XGBoost (X Gradient-Boosting)
+- LGBM (Light Gradient-Boosting )
 
