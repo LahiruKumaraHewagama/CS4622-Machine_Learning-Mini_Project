@@ -20,6 +20,7 @@ In this competition, you’ll apply your machine learning skills to predict cred
 - Creation of new features
 - Target Encoding
 - Lable Encoding
+- OrdinalEncoder
 - Feature Importance
 - Feature Selection
 
